@@ -15,19 +15,19 @@
 
 ### Описание данных
 #### Технологический процесс
-- Rougher feed — исходное сырье
-- Rougher additions — флотационные реагенты: Xanthate, Sulphate, Depressant
-- Rougher process — флотация
-- Rougher tails — отвальные хвосты
-- Float banks — флотационная установка
-- Cleaner process — очистка
-- Rougher Au — черновой концентрат золота
-- Final Au — финальный концентрат золота
+- `Rougher feed` — исходное сырье
+- `Rougher additions` — флотационные реагенты: `Xanthate`, `Sulphate`, `Depressant`
+- `Rougher process` — флотация
+- `Rougher tails` — отвальные хвосты
+- `Float banks` — флотационная установка
+- `Cleaner process` — очистка
+- `Rougher Au` — черновой концентрат золота
+- `Final Au` — финальный концентрат золота
 #### Параметры этапов
-- air amount — объём воздуха
-- fluid levels — уровень жидкости
-- feed size — размер гранул сырья
-- feed rate — скорость подачи
+- `air amount` — объём воздуха
+- `fluid levels` — уровень жидкости
+- `feed size` — размер гранул сырья
+- `feed rate` — скорость подачи
 
 Данные находятся в трёх файлах:  
 - `gold_industry_train.csv` — обучающая выборка;  
