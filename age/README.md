@@ -11,3 +11,10 @@
 - numpy
 - matplotlib
 - tensorflow.keras
+  - GlobalAveragePooling2D
+  - Dense
+  - Sequential
+  - ResNet50
+  - fashion_mnist
+  - ImageDataGenerator
+  - Adam
