@@ -36,3 +36,18 @@
   - `key` — номер партии;
   - `Wire 1 … Wire 15` — время подачи проволочных материалов;
 Во всех файлах столбец key содержит номер партии. В файлах может быть несколько строк с одинаковым значением key: они соответствуют разным итерациям обработки.
+
+## Навыки и инструменты
+- python
+- pandas
+- numpy
+- matplotlib
+- sklearn
+  - LinearRegression
+  - RandomForestRegressor
+  - GridSearchCV
+  - cross_val_score
+  - mean_absolute_error
+  - StandardScaler
+- catboost
+  - CatBoostRegressor
