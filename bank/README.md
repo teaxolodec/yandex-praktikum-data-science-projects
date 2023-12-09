@@ -20,3 +20,14 @@
   - `EstimatedSalary` — предполагаемая зарплата
 - Целевой признак
   - `Exited` — факт ухода клиента
+
+## Навыки и инструменты
+- python
+- pandas
+- numpy
+- sklearn
+  - RandomForestClassifier
+  - f1_score
+  - roc_auc_score
+  - accuracy_score
+- matplotlib
