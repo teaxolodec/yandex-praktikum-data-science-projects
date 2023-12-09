@@ -4,3 +4,14 @@
 ## Описание данных
 - `datetime` - временной ряд
 - `num_orders` - количество заказов
+
+## Навыки и инструменты
+- python
+- pandas
+- numpy
+- statsmodels
+  - seasonal_decompose
+- sklearn
+  - LinearRegression
+  - train_test_split
+  - mean_squared_error
