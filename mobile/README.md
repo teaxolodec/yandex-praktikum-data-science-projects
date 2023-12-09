@@ -9,3 +9,13 @@
 - `messages` — количество sms-сообщений,
 - `mb_used` — израсходованный интернет-трафик в Мб,
 - `is_ultra` — каким тарифом пользовался в течение месяца («Ультра» — 1, «Смарт» — 0).
+
+## Навыки и инструменты
+- python
+- pandas
+- numpy
+- sklearn
+  - DecisionTreeClassifier
+  - RandomForestClassifier
+  - accuracy_score
+  - make_classification
