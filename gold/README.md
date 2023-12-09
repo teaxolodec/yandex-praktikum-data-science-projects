@@ -64,3 +64,16 @@ $\hat y_i$ — значение предсказания для объекта �
 - эффективность обогащения финального концентрата `final.output.recovery`.  
 Итоговая метрика складывается из двух величин:
 $$Итоговый \space sMAPE = 0.25 \cdot sMAPE(rougher) + 0.75 \cdot sMAPE(final)$$
+
+## Навыки и инструменты
+- python
+- pandas
+- numpy
+- matplotlib
+- sklearn
+  - DecisionTreeRegressor
+  - KNeighborsRegressor
+  - LinearRegression
+  - RandomForestRegressor
+  - SVR
+  - DecisionTreeRegressor
