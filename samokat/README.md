@@ -31,3 +31,12 @@
   - `minute_price` — стоимость одной минуты поездки по данной подписке
   - `start_ride_price` — стоимость начала поездки
   - `subscription_fee` — стоимость ежемесячного платежа
+
+## Навыки и инструменты
+- python
+- pandas
+- numpy
+- matplotlib
+- scipy
+  - stats
+  - binom
