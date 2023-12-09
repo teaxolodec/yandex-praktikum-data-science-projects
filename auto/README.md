@@ -29,5 +29,13 @@
 - python
 - pandas
 - numpy
+- matplotlib
 - sklearn
+  - OrdinalEncoder
+  - RandomForestClassifier
+  - shuffle
+  - r2_score
+  - f1_score
+  - roc_auc_score
+  - accuracy_score
 - lightgbm
