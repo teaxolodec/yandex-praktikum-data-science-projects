@@ -17,3 +17,14 @@
 - `Critic_Score` — оценка критиков (максимум 100)
 - `User_Score` — оценка пользователей (максимум 10)
 - `Rating` — рейтинг от организации ESRB (англ. Entertainment Software Rating Board). Эта ассоциация определяет рейтинг компьютерных игр и присваивает им подходящую возрастную категорию.
+
+## Навыки и инструменты
+- python
+- pandas
+- numpy
+- statistics
+- re
+- seaborn
+- scipy
+  - pearsonr
+  - stats
